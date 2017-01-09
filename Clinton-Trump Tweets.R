@@ -1,5 +1,5 @@
 #load dataset
-tweets <- read.csv("c:/users/alex/desktop/R/exercise data/Hillary Clinton and Donald Trump Tweets/tweets.csv", header = T)
+tweets <- read.csv(".../input/tweets.csv", header = T)
 
 #load some useful packages
 library(dplyr)
